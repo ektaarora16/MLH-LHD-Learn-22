@@ -37,11 +37,9 @@ Here are the topics covered in this course:
 - How to write Markdown
 
 ## What is Open Source?
-Open source is a term that originally referred to open source software (OSS). Open source software is code that is designed to be publicly accessible—anyone can see, modify, and distribute the code as they see fit.
+A software for which the original source code is made freely available and may be redistributed and modified according to the requirement of the user. Open source software is that by which the source code or the base code is usually available for modification or enhancement by anyone for reusability and accessibility.
 
-Open source software is developed in a decentralized and collaborative way, relying on peer review and community production. Open source software is often cheaper, more flexible, and has more longevity than its proprietary peers because it is developed by communities rather than a single author or company.
-
-Open source has become a movement and a way of working that reaches beyond software production. The open source movement uses the values and decentralized production model of open source software to find new ways to solve problems in their communities and industries.
+Open source code is the part of software that mostly users don't ever see. Anyone can manipulate and change a piece of software so that the program or application can work. Programmers who have access to a computer program source code can improve a program by adding features to it or fixing parts that don't always work correctly.
 
 ## Why you should care about Open Source?
 Open source is a hot topic. Barely a day goes by without a major announcement in the computer press about open source: companies introducing new initiatives such as Sun releasing Solaris 10 as open source; established vendors ploughing huge amounts of resource into open source projects (e.g. IBM donating millions of dollars to the Eclipse project); and venture capitalists flocking to fund open source companies (e.g. SugarCRM, SpikeSource).
