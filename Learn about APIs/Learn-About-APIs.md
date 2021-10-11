@@ -54,16 +54,6 @@ Some of the main benefits of APIs include the following:
 
 - Added security
 
-## Types of API protocols?
-As the use of web APIs has increased, certain protocols have been developed to provide users with a set of defined rules that specifies the accepted data types and commands. In effect, these API protocols facilitate standardized information exchange:
-
-- SOAP
-
-- XML-RPC
-
-- JSON-RPC
-
-- REST
 
 ## Where APIs can used?
 APIS can be used in many ways but i listed some of them : 
