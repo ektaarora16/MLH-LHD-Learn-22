@@ -30,16 +30,7 @@ Here’s how an API works:
 
 **4. The API transfers the data** to the initial requesting application.
 
-## Types of APIs
-Nowadays, most application programming interfaces are web APIs that expose an application's data and functionality over the internet. Here are the four main types of web API:
 
-- Open APIs
-
-- Partner APIs
-
-- Internal APIs
-
-- Composite APIs
 
 ## Why we need APIs?
 Whether you’re managing existing tools or designing new ones, you can use an application programming interface to simplify the process. 
