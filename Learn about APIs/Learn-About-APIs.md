@@ -91,8 +91,3 @@ There are lot's of Projects based on APIs but i lissted some of them :
 
 - **Forkhub :** GitHub client for Android based on the abandoned official app 
 
-## Final Thoughts
-APIs are everywhere, and it only takes picking up your smartphone to see them in action. Whether it’s searching
-for the weather on Google, logging-in with Facebook, paying with PayPal, or interacting with a Twitter bot, all
-of these things are powered by APIs. To boot, there’s a lot more going on with APIs behind the scenes. We may not 
-see them as much, but they’re integral to our daily digital lives.
