@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="" width=300px>
+  <img src="https://user-images.githubusercontent.com/84700316/136851946-90b564bf-a91c-4581-92d6-76b63240c8b6.png" width=300px>
 </p>
+
 
 <h1 align="center"> <code> Learn about Open Source </code></h1>
 <p align="center"> Everyone is talking about contributing to open source but how exactly do you go about contributing to a project? </p>
