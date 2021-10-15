@@ -67,3 +67,8 @@ Each of the nine muses of ancient Greece oversaw a different field of human crea
 During the Middle Ages, the word “artista” referred to something resembling “craftsman,” or student of the arts. The first division into “major” and “minor” arts dates back to the 1400s with the work of Leon Battista Alberti, which focused on the importance of the intellectual skills of the artist rather than the manual skills of a craftsman. The European academies of the 16th century formally solidified the gap between the fine and the applied arts, which exists in varying degrees to this day. Generally speaking, the applied arts apply design and aesthetics to objects of everyday use, while the fine arts serve as intellectual stimulation.
 
 Currently, the term “artist” typically refers to anyone who is engaged in an activity that is deemed to be an art form. However, the questions of what is art and who is an artist are not easily answered. The idea of defining art today is far more difficult than it has ever been. After the exhibition during the Pop Art movement of Andy Warhol’s Brillo Box and Campbell’s Soup Cans, the questions of “what is art?” and “who is an artist?” entered a more conceptual realm. Anything can, in fact, be art, and the term remains constantly evolving.
+## Contributors :
+1. Ekta Arora
+2. Aaquib Ali
+3. Ruthvik
+4. Shrejal Singh
