@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="" width=300px>
+  <img src="https://user-images.githubusercontent.com/84700316/137443809-ca395c18-8eca-4a89-94b6-e9cf828e4aa0.png" width=300px>
   </p>
-  
+
   <h1 align="center"> Leran how to use Art? </h1>
   <p align="center"> Are You a Beginning Artist? Here is What You Need to Know</p>
   
